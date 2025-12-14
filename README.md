@@ -57,3 +57,13 @@
 > Contributions to improve the completeness of this list are greatly appreciated. If you come across any overlooked papers, please **feel free to [*create pull requests*](https://github.com/DmitryRyumin/Awesome-Data-Augmentation/pulls), [*open issues*](https://github.com/DmitryRyumin/Awesome-Data-Augmentation/issues) or contact me via [*email*](mailto:neweraairesearch@gmail.com)**. Your participation is crucial to making this repository even better.
 
 ---
+
+<details open>
+<summary>List of sections<a id="sections"></a></summary>
+
+- [Images](#images)
+
+</details>
+
+## Images
+
