@@ -67,3 +67,6 @@
 
 ## Images
 
+| **Method** | **Conference** or **Journal** | Repo |
+|:----------:|:-----------------------------:|:----:|
+| [MixUp](https://openreview.net/forum?id=r1Ddp1-Rb) | [![ICLR'18](https://img.shields.io/badge/ICLR-2018-212529.svg)](https://openreview.net/forum?id=r1Ddp1-Rb) | [![GitHub](https://img.shields.io/github/stars/facebookresearch/mixup-cifar10?style=flat)](https://github.com/facebookresearch/mixup-cifar10) |
